@@ -6,5 +6,3 @@ Here is a random line for checking out the diff command.
 Random line 2.
 
 Editing after staging. Yay!
-
-Trying the -a flag
